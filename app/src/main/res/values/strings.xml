@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NikeTest</string>
+    <string name="please_wait">Loading</string>
+    <string name="no_internet_connection">Not Internet Connection</string>
+    <string name="seems_like_you">it seems you dont have connection</string>
+    <string name="try_again">Try Again</string>
+    <string name="search_word">Search a Word</string>
+    <string name="count">1000</string>
+    <string name="notConnection">Not Internet Connection , please try again.</string>
+    <string name="search">Look the meaning of your word!!</string>
+    <string name="settings">Settings</string>
+    <string name="OrderThumbsDown">Order by Thumbs Down</string>
+    <string name="OrderThumbsUp">Order By Thumbs Up</string>
+</resources>
